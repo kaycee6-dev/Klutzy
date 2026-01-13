@@ -1,1 +1,6 @@
-# Klutzy
+- Hi, I'm Kaycee (KC for short)
+- I'm currently studying Computer Engineering
+- I chose my major because Fascinated with computers 
+- A fun fact about me is:  I love game development
+- What do I want to learn from EE 205?  Increase brain power and also C & C++
+- A book or movie I'd recommend is:  Kung Fu Hustle (Movie)
